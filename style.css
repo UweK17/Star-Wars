@@ -28,7 +28,7 @@ h1{
 }
 .title{
   text-align: center;
-  line-height: 350%;
+  line-height: 200%;
 }
 .starwars{
   /*Flexbox to center the entire element on the screen*/
@@ -55,7 +55,7 @@ h1{
   /* Defines the skew origin at the very center when we apply transforms on the animation*/
   transform-origin: 50% 100%;
   /* Adds the crawl animation, which plays for one minute */
-  animation: crawl 30s linear;
+  animation: crawl 45s linear;
 }
 
 /*We are calling this animation "crawl"*/
