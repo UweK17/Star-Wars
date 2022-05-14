@@ -28,7 +28,7 @@ h1{
 }
 .title{
   text-align: center;
-  line-height: 150%;
+  line-height: 200%;
 }
 .starwars{
   /*Flexbox to center the entire element on the screen*/
