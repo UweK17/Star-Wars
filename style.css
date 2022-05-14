@@ -24,11 +24,11 @@ body{
 }
 
 h1{
-  font-size: 15rem;
+  font-size: 10rem;
 }
 .title{
   text-align: center;
-  line-height: 200%;
+  line-height: 150%;
 }
 .starwars{
   /*Flexbox to center the entire element on the screen*/
